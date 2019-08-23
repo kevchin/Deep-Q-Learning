@@ -1,6 +1,6 @@
 ![](pictures/Pong_2.gif) ![](pictures/Breakout_2.gif)
 
-# Forked from : fg91/Deep-Q-Learning
+## Code Forked from : fg91/Deep-Q-Learning
 
 ## Double Deep Q-Learning with Dueling Network Architecture
 
